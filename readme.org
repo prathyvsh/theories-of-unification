@@ -1,0 +1,48 @@
+* Theories of Unification
+
+A collection of theroies that unify their subject matter under a novel framework.
+The ones catalogued here picks diverse streams that were scattered and unifies them as different facets of a unified framework.
+
+* Tonti Diagrams
+Enzo Tonti
+
+* Erlangen Program
+Felix Klein
+
+* Chomsky – Schützenberger Hierarchy
+Noam Chomsky, Schützenberger
+
+* Logicism
+Whitehead and Russell
+
+* Langlands Program
+Robert Langlands
+
+* Universal Algebra
+Grassmann, Whitehead
+
+* Univalent Foundations
+Voevodsky and others
+
+* Emulation Theory
+Harvey Friedman
+
+* Category Theory
+Samuel Eilenberg, Mac Lane
+
+* Computational Universe
+Stephen Wolfram
+
+* Geometrical Unity
+Eric Weinstein
+
+* E8 Theory
+Garret Lisi
+
+* Quantum Field Theory
+
+* M-Theory
+Edward Witten
+
+* Collective Electrodynamics
+Carver Mead
